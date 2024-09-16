@@ -1,6 +1,12 @@
 ---
-title: "Example Post: no thumbnail image"
-date: "2023-12-01"
+title: "[C++] 1002 : 터렛"
+tags:
+    - BaekJoon
+    - Algorithm
+    - Korean
+date: "2024-09-17"
+thumbnail: "/assets/img/thumbnail/baekjoon.png"
+use_math: true
 ---
 
 # Follow the guidance
