@@ -1,5 +1,5 @@
 ---
-title: "[C++] 1002 : 터렛"
+title: "1002 : 터렛"
 tags:
     - BaekJoon
     - Algorithm
