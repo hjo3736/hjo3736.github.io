@@ -6,7 +6,6 @@ tags:
     - Korean
 date: "2024-09-17"
 thumbnail: "/assets/img/thumbnail/baekjoon.png"
-use_math: true
 ---
 
 # Follow the guidance
