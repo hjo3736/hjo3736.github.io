@@ -2,13 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>
-    {% if page.url == "/index.html" %}
-        Home
-    {% elsif page_type == "category" %}
-        {{ category_title }}
-    {% else %}
-        {{ page.title }}
-    {% endif %}
+    Dev's Night Association
 </title>
 {% seo %}
 
@@ -39,6 +33,15 @@
     font-display: optional;
     src: local('Lato'),
          url("{{ site.baseurl }}/assets/fonts/Lato-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    font-display: optional;
+    src: local('Lato'),
+         url("{{ site.baseurl }}/assets/fonts/NotoSansKR-Medium.ttf") format("truetype");
 }
 </style>
 
